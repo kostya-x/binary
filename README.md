@@ -5,7 +5,7 @@
 git install
 ```
 
-- start local server or
+- start local server
 ```bash
 npm start
 ```
