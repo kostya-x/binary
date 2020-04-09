@@ -2,7 +2,7 @@
 
 - installing dependencies
 ```bash
-git installto
+git install
 ```
 
 - start local server or
